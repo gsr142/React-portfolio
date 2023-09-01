@@ -5,7 +5,7 @@ function Portfolio() {
       <div className="row row-cols-3 g-3">
         <div className="col">
           <a href="https://trivia-mania-34ca81ef04dc.herokuapp.com/" target="blank">
-          <div className="card">
+          <div className="card portfolio">
             <img
               src="src/assets/images/trivia.png"
               className="card-img-top"
@@ -20,7 +20,7 @@ function Portfolio() {
         </div>
         <div className="col">
           <a href="https://gsr142-tipcalcwebapp-web-zg4sej.streamlit.app/">
-          <div className="card">
+          <div className="card portfolio">
             <img
               src="src/assets/images/tipout-app.png"
               className="card-img-top"
@@ -35,7 +35,7 @@ function Portfolio() {
         </div>
         <div className="col">
           <a href="https://gsr142.github.io/bookFlix/index.html">
-          <div className="card">
+          <div className="card portfolio">
             <img
               src="src/assets/images/bookflix.png"
               className="card-img-top"
@@ -50,7 +50,7 @@ function Portfolio() {
         </div>
         <div className="col">
           <a href="https://gsr142.github.io/five-day-forecast/">
-          <div className="card">
+          <div className="card portfolio">
             <img
               src="src/assets/images/weather-app.png"
               className="card-img-top"
@@ -65,7 +65,7 @@ function Portfolio() {
         </div>
         <div className="col">
           <a href="https://gsr142-ofc-royalty-calculator-main-q5amqf.streamlit.app/">
-          <div className="card">
+          <div className="card portfolio">
             <img
               src="src/assets/images/ace-hearts.png"
               className="card-img-top"
@@ -80,7 +80,7 @@ function Portfolio() {
         </div>
         <div className="col">
           <a href="https://github.com/gsr142/note-taker">
-          <div className="card">
+          <div className="card portfolio">
             <img
               src="src/assets/images/screenshot.png"
               className="card-img-top"
