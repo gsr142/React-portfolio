@@ -4,7 +4,33 @@
   padding-bottom: 2rem;
   text-align: center;
 }
+body {
+  background-color: lightblue;
+}
+
 
 .navbar {
   background-color: aquamarine;
+}
+
+.card {
+  margin: 1rem;
+
+}
+
+a :hover {
+  box-shadow: 0 0 2px 2px aquamarine;
+}
+
+.card-title :hover{
+  box-shadow: none;
+}
+
+.about {
+  text-align: left;
+  background-color: lightgray;
+}
+
+.portfolio {
+  background-color: lightgray;;
 }
