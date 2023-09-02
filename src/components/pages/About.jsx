@@ -1,10 +1,11 @@
+
 function About() {
   return (
     <>
       <div className="card mb-3 about">
         <div className="row g-0">
           <div className="col-md-2">
-            <img src="src/assets/images/profilepic.jpg" className="img-fluid rounded-start about" alt="photo of the author" />
+            <img src="./images/profilepic.jpg" className="img-fluid rounded-start about" alt="photo of the author" />
           </div>
           <div className="col-md-10 about">
             <div className="card-body about">

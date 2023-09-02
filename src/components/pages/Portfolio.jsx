@@ -7,7 +7,7 @@ function Portfolio() {
           <a href="https://trivia-mania-34ca81ef04dc.herokuapp.com/" target="blank">
           <div className="card portfolio">
             <img
-              src="src/assets/images/trivia.png"
+              src="./images/trivia.png"
               className="card-img-top"
               alt="Sign for Trivia Night"
             />
@@ -22,7 +22,7 @@ function Portfolio() {
           <a href="https://gsr142-tipcalcwebapp-web-zg4sej.streamlit.app/">
           <div className="card portfolio">
             <img
-              src="src/assets/images/tipout-app.png"
+              src="./images/tipout-app.png"
               className="card-img-top"
               alt="Server holding order pad"
             />
@@ -37,7 +37,7 @@ function Portfolio() {
           <a href="https://gsr142.github.io/bookFlix/index.html">
           <div className="card portfolio">
             <img
-              src="src/assets/images/bookflix.png"
+              src="./images/bookflix.png"
               className="card-img-top"
               alt="Screenshot of bookflix app"
             />
@@ -52,7 +52,7 @@ function Portfolio() {
           <a href="https://gsr142.github.io/five-day-forecast/">
           <div className="card portfolio">
             <img
-              src="src/assets/images/weather-app.png"
+              src="./images/weather-app.png"
               className="card-img-top"
               alt="Clouds"
             />
@@ -67,7 +67,7 @@ function Portfolio() {
           <a href="https://gsr142-ofc-royalty-calculator-main-q5amqf.streamlit.app/">
           <div className="card portfolio">
             <img
-              src="src/assets/images/ace-hearts.png"
+              src="./images/ace-hearts.png"
               className="card-img-top"
               alt="Ace of Hearts"
             />
@@ -82,7 +82,7 @@ function Portfolio() {
           <a href="https://github.com/gsr142/note-taker">
           <div className="card portfolio">
             <img
-              src="src/assets/images/screenshot.png"
+              src="./images/screenshot.png"
               className="card-img-top"
               alt="Screenshot of Notetaker app"
             />
