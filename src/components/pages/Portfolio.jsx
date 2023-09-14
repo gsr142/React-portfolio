@@ -79,15 +79,15 @@ function Portfolio() {
           </a>
         </div>
         <div className="col">
-          <a href="https://github.com/gsr142/note-taker">
+          <a href="https://loud-mouth-app-defe9659a2a4.herokuapp.com/">
           <div className="card portfolio">
             <img
-              src="./images/screenshot.png"
+              src="./images/loudmouth.png"
               className="card-img-top"
-              alt="Screenshot of Notetaker app"
+              alt="Child yelling into microphone"
             />
             <div className="card-body">
-              <h5 className="card-title">NoteTaker</h5>
+              <h5 className="card-title">LoudMouth</h5>
               <p className="card-text"></p>
             </div>
           </div>
